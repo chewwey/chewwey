@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chewwey
-- 👀 I’m interested in all japanese culture
+- 👋 Hi, I’m Wipat or my nickname is film but my friend call me chew
+- 👀 I’m interested in all japanese culture Ex:manga anime food 
 - 🌱 I’m currently learning golang and react
 
 
